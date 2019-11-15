@@ -7,6 +7,7 @@ public class AvlTreeDome {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr = { 10, 11, 7, 6, 8, 9 };  
+		System.out.println("one");
 		//创建一个 AVLTree对象
 		AvlTree avlTree = new AvlTree();
 		//添加结点
